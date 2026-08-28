@@ -40,9 +40,20 @@ if (!fs.existsSync(image)) {
 fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const list = fs.existsSync(DATA_FILE) ? JSON.parse(fs.readFileSync(DATA_FILE, "utf-8")) : [];
-const id = `${category}-${String(list.filter((w) => w.category === category).length + 1).padStart(3, "0")}`;
+// 用该分类下最大编号 +1（而非数量 +1），避免移动/删除后编号冲突覆盖旧文件
+const maxNum = list
+  .filter((w) => w.category === category)
+  .reduce((m, w) => {
+    const n = parseInt(w.id.split("-")[1] || "0", 10);
+    return isNaN(n) ? m : Math.max(m, n);
+  }, 0);
+const id = `${category}-${String(maxNum + 1).padStart(3, "0")}`;
 const ext = path.extname(image).toLowerCase();
 const dest = path.join(OUT_DIR, `${id}${ext}`);
+if (fs.existsSync(dest)) {
+  console.error(`❌ 目标文件已存在，拒绝覆盖: ${dest}`);
+  process.exit(1);
+}
 fs.copyFileSync(image, dest);
 
 list.push({

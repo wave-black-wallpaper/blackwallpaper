@@ -1,13 +1,13 @@
 [
   {
-    "id": "anime-001",
+    "id": "minimal-005",
     "title": "暮色少女",
-    "category": "anime",
+    "category": "minimal",
     "tags": [
-      "动漫",
+      "极简",
       "手机壁纸"
     ],
-    "file": "/wallpapers/anime-001.svg",
+    "file": "/wallpapers/minimal-005.svg",
     "width": 1080,
     "height": 2160,
     "source": "ai",
@@ -30,14 +30,14 @@
     "createdAt": "2026-08-28"
   },
   {
-    "id": "anime-003",
+    "id": "minimal-006",
     "title": "风之谷",
-    "category": "anime",
+    "category": "minimal",
     "tags": [
-      "动漫",
+      "极简",
       "手机壁纸"
     ],
-    "file": "/wallpapers/anime-003.svg",
+    "file": "/wallpapers/minimal-006.svg",
     "width": 1080,
     "height": 2160,
     "source": "ai",
@@ -235,8 +235,8 @@
     ],
     "file": "/wallpapers/dark-004.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -251,8 +251,8 @@
     ],
     "file": "/wallpapers/dark-005.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -267,8 +267,8 @@
     ],
     "file": "/wallpapers/dark-006.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -283,8 +283,8 @@
     ],
     "file": "/wallpapers/anime-004.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -299,8 +299,8 @@
     ],
     "file": "/wallpapers/anime-005.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -315,8 +315,8 @@
     ],
     "file": "/wallpapers/cyberpunk-004.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -331,8 +331,8 @@
     ],
     "file": "/wallpapers/cyberpunk-005.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -347,8 +347,8 @@
     ],
     "file": "/wallpapers/trend-004.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -363,8 +363,8 @@
     ],
     "file": "/wallpapers/trend-005.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   },
@@ -379,8 +379,56 @@
     ],
     "file": "/wallpapers/minimal-004.png",
     "width": 1024,
-    "height": 1536,
-    "source": "upload",
+    "height": 1456,
+    "source": "ai",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-007",
+    "title": "暮色天台",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "少女",
+      "黄昏"
+    ],
+    "file": "/wallpapers/anime-007.png",
+    "width": 1024,
+    "height": 1456,
+    "source": "ai",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-008",
+    "title": "竹林的剑客",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "和风",
+      "剑客"
+    ],
+    "file": "/wallpapers/anime-008.png",
+    "width": 1024,
+    "height": 1456,
+    "source": "ai",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-009",
+    "title": "灯笼街的猫",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "猫咪",
+      "夜色"
+    ],
+    "file": "/wallpapers/anime-009.png",
+    "width": 1024,
+    "height": 1456,
+    "source": "ai",
     "downloads": 0,
     "createdAt": "2026-08-28"
   }
