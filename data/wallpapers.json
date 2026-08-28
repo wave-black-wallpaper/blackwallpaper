@@ -65,11 +65,12 @@
     "category": "trend",
     "tags": [
       "潮流",
-      "手机壁纸"
+      "霓虹",
+      "光轨"
     ],
-    "file": "/wallpapers/trend-002.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/trend-002.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 948,
     "createdAt": "2026-08-28"
@@ -95,11 +96,12 @@
     "category": "dark",
     "tags": [
       "暗黑",
-      "手机壁纸"
+      "渐变",
+      "呼吸感"
     ],
-    "file": "/wallpapers/dark-001.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/dark-001.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 676,
     "createdAt": "2026-08-28"
@@ -110,11 +112,12 @@
     "category": "dark",
     "tags": [
       "暗黑",
-      "手机壁纸"
+      "月食",
+      "夜空"
     ],
-    "file": "/wallpapers/dark-002.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/dark-002.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 872,
     "createdAt": "2026-08-28"
@@ -155,11 +158,12 @@
     "category": "cyberpunk",
     "tags": [
       "赛博朋克",
-      "手机壁纸"
+      "机甲",
+      "机械心"
     ],
-    "file": "/wallpapers/cyberpunk-002.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/cyberpunk-002.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 426,
     "createdAt": "2026-08-28"
@@ -185,11 +189,12 @@
     "category": "minimal",
     "tags": [
       "极简",
-      "手机壁纸"
+      "雾",
+      "灰白"
     ],
-    "file": "/wallpapers/minimal-001.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/minimal-001.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 302,
     "createdAt": "2026-08-28"
@@ -200,11 +205,12 @@
     "category": "minimal",
     "tags": [
       "极简",
-      "手机壁纸"
+      "光线",
+      "黑"
     ],
-    "file": "/wallpapers/minimal-002.svg",
-    "width": 1080,
-    "height": 2160,
+    "file": "/wallpapers/minimal-002.png",
+    "width": 1024,
+    "height": 1456,
     "source": "ai",
     "downloads": 784,
     "createdAt": "2026-08-28"
