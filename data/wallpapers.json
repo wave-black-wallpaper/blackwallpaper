@@ -69,8 +69,8 @@
       "光轨"
     ],
     "file": "/wallpapers/trend-002.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 948,
     "createdAt": "2026-08-28"
@@ -100,8 +100,8 @@
       "呼吸感"
     ],
     "file": "/wallpapers/dark-001.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 676,
     "createdAt": "2026-08-28"
@@ -116,8 +116,8 @@
       "夜空"
     ],
     "file": "/wallpapers/dark-002.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 872,
     "createdAt": "2026-08-28"
@@ -162,8 +162,8 @@
       "机械心"
     ],
     "file": "/wallpapers/cyberpunk-002.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 426,
     "createdAt": "2026-08-28"
@@ -193,8 +193,8 @@
       "灰白"
     ],
     "file": "/wallpapers/minimal-001.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 302,
     "createdAt": "2026-08-28"
@@ -209,8 +209,8 @@
       "黑"
     ],
     "file": "/wallpapers/minimal-002.png",
-    "width": 1024,
-    "height": 1456,
+    "width": 1179,
+    "height": 2556,
     "source": "ai",
     "downloads": 784,
     "createdAt": "2026-08-28"
@@ -435,6 +435,54 @@
     "width": 1024,
     "height": 1456,
     "source": "ai",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-007",
+    "title": "黑金大理石",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "大理石",
+      "金纹"
+    ],
+    "file": "/wallpapers/dark-007.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-006",
+    "title": "液态铬·金属球",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "3D",
+      "金属"
+    ],
+    "file": "/wallpapers/trend-006.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-008",
+    "title": "雾林月色",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "雾林",
+      "电影感"
+    ],
+    "file": "/wallpapers/dark-008.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
     "downloads": 0,
     "createdAt": "2026-08-28"
   }
