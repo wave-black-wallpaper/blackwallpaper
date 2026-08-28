@@ -1,0 +1,6 @@
+node_modules/
+.next/
+out/
+tmp-incoming/
+.DS_Store
+*.log

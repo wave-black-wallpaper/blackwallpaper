@@ -1,0 +1,387 @@
+[
+  {
+    "id": "anime-001",
+    "title": "暮色少女",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/anime-001.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 335,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-002",
+    "title": "星海列车",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/anime-002.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 798,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-003",
+    "title": "风之谷",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/anime-003.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 966,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-001",
+    "title": "街头涂鸦",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/trend-001.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 457,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-002",
+    "title": "霓虹标语",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/trend-002.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 948,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-003",
+    "title": "街头涂鸦·夜",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/trend-003.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 737,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-001",
+    "title": "纯黑·呼吸",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/dark-001.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 676,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-002",
+    "title": "月蚀",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/dark-002.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 872,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-003",
+    "title": "黑曜石纹",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/dark-003.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 349,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "cyberpunk-001",
+    "title": "赛博都市 2099",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/cyberpunk-001.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 144,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "cyberpunk-002",
+    "title": "机甲之心",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/cyberpunk-002.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 426,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "cyberpunk-003",
+    "title": "霓虹雨巷",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/cyberpunk-003.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 677,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "minimal-001",
+    "title": "雾白",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/minimal-001.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 302,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "minimal-002",
+    "title": "一线之间",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/minimal-002.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 784,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "minimal-003",
+    "title": "几何·蓝",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "手机壁纸"
+    ],
+    "file": "/wallpapers/minimal-003.svg",
+    "width": 1080,
+    "height": 2160,
+    "source": "ai",
+    "downloads": 411,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-004",
+    "title": "黑曜石·金纹",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "质感",
+      "黑金"
+    ],
+    "file": "/wallpapers/dark-004.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-005",
+    "title": "月蚀",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "月亮",
+      "极简"
+    ],
+    "file": "/wallpapers/dark-005.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-006",
+    "title": "暗夜烟语",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "烟雾",
+      "抽象"
+    ],
+    "file": "/wallpapers/dark-006.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-004",
+    "title": "星海之下",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "星空",
+      "少女"
+    ],
+    "file": "/wallpapers/anime-004.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "anime-005",
+    "title": "水墨孤侠",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "国风",
+      "水墨"
+    ],
+    "file": "/wallpapers/anime-005.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "cyberpunk-004",
+    "title": "霓虹雨夜",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "霓虹",
+      "雨夜"
+    ],
+    "file": "/wallpapers/cyberpunk-004.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "cyberpunk-005",
+    "title": "机甲觉醒",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "机甲",
+      "科幻"
+    ],
+    "file": "/wallpapers/cyberpunk-005.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-004",
+    "title": "街头涂鸦·夜",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "涂鸦",
+      "街头"
+    ],
+    "file": "/wallpapers/trend-004.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "trend-005",
+    "title": "液态银·Y2K",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "Y2K",
+      "金属"
+    ],
+    "file": "/wallpapers/trend-005.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  },
+  {
+    "id": "minimal-004",
+    "title": "一线之隔",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "线条",
+      "纯黑"
+    ],
+    "file": "/wallpapers/minimal-004.png",
+    "width": 1024,
+    "height": 1536,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-28"
+  }
+]
