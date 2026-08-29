@@ -41,17 +41,30 @@ fs.mkdirSync(OUT_DIR, { recursive: true });
 
 const list = fs.existsSync(DATA_FILE) ? JSON.parse(fs.readFileSync(DATA_FILE, "utf-8")) : [];
 // 用该分类下最大编号 +1（而非数量 +1），避免移动/删除后编号冲突覆盖旧文件
-const maxNum = list
-  .filter((w) => w.category === category)
-  .reduce((m, w) => {
-    const n = parseInt(w.id.split("-")[1] || "0", 10);
-    return isNaN(n) ? m : Math.max(m, n);
-  }, 0);
-const id = `${category}-${String(maxNum + 1).padStart(3, "0")}`;
+// 并发安全：编号被占用时自动重读 + 重新计算，最多尝试 10 次
 const ext = path.extname(image).toLowerCase();
-const dest = path.join(OUT_DIR, `${id}${ext}`);
-if (fs.existsSync(dest)) {
-  console.error(`❌ 目标文件已存在，拒绝覆盖: ${dest}`);
+let id, dest, attempt = 0;
+while (attempt < 10) {
+  const maxNum = list
+    .filter((w) => w.category === category)
+    .reduce((m, w) => {
+      const n = parseInt(w.id.split("-")[1] || "0", 10);
+      return isNaN(n) ? m : Math.max(m, n);
+    }, 0);
+  id = `${category}-${String(maxNum + 1).padStart(3, "0")}`;
+  dest = path.join(OUT_DIR, `${id}${ext}`);
+  if (!fs.existsSync(dest)) break;
+  attempt++;
+  // 编号被并发抢走：等一下再重读 JSON 让其反映最新状态
+  require("child_process").execSync("sleep 0.2");
+  if (fs.existsSync(DATA_FILE)) {
+    const fresh = JSON.parse(fs.readFileSync(DATA_FILE, "utf-8"));
+    list.length = 0;
+    list.push(...fresh);
+  }
+}
+if (attempt >= 10) {
+  console.error("❌ 多次重试后仍无法分配编号，请重试");
   process.exit(1);
 }
 fs.copyFileSync(image, dest);

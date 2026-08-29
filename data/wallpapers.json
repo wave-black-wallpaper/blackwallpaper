@@ -485,5 +485,325 @@
     "source": "upload",
     "downloads": 0,
     "createdAt": "2026-08-28"
+  },
+  {
+    "id": "dark-009",
+    "title": "黑豹之眼",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "豹",
+      "微距"
+    ],
+    "file": "/wallpapers/dark-009.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "dark-010",
+    "title": "黑玫瑰",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "玫瑰",
+      "微距"
+    ],
+    "file": "/wallpapers/dark-010.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "anime-010",
+    "title": "雨夜霓虹",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "雨夜",
+      "新海诚"
+    ],
+    "file": "/wallpapers/anime-010.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "dark-011",
+    "title": "午夜怒涛",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "海浪",
+      "夜景"
+    ],
+    "file": "/wallpapers/dark-011.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "anime-011",
+    "title": "九尾狐",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "狐狸",
+      "和风"
+    ],
+    "file": "/wallpapers/anime-011.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "anime-012",
+    "title": "锦鲤莲池",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "锦鲤",
+      "莲"
+    ],
+    "file": "/wallpapers/anime-012.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "dark-012",
+    "title": "深空星云",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "星云",
+      "宇宙"
+    ],
+    "file": "/wallpapers/dark-012.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "anime-013",
+    "title": "魔法书库",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "法师",
+      "藏书"
+    ],
+    "file": "/wallpapers/anime-013.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "cyberpunk-006",
+    "title": "赛博夜市",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博",
+      "夜市",
+      "霓虹"
+    ],
+    "file": "/wallpapers/cyberpunk-006.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "cyberpunk-007",
+    "title": "黑客密室",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博",
+      "黑客",
+      "代码"
+    ],
+    "file": "/wallpapers/cyberpunk-007.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "cyberpunk-008",
+    "title": "机械义体少女",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博",
+      "机械",
+      "少女"
+    ],
+    "file": "/wallpapers/cyberpunk-008.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "cyberpunk-009",
+    "title": "未来都市航拍",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博",
+      "都市",
+      "航拍"
+    ],
+    "file": "/wallpapers/cyberpunk-009.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "trend-007",
+    "title": "蒸汽波跑车",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "蒸汽波",
+      "跑车"
+    ],
+    "file": "/wallpapers/trend-007.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "minimal-007",
+    "title": "侘寂三石",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "石头",
+      "侘寂"
+    ],
+    "file": "/wallpapers/minimal-007.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "minimal-008",
+    "title": "灰球",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "3D",
+      "几何"
+    ],
+    "file": "/wallpapers/minimal-008.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "trend-008",
+    "title": "玻璃气泡",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "3D",
+      "气泡"
+    ],
+    "file": "/wallpapers/trend-008.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "minimal-009",
+    "title": "蒲公英",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "蒲公英",
+      "微距"
+    ],
+    "file": "/wallpapers/minimal-009.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "minimal-010",
+    "title": "山路光轨",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "长曝光",
+      "山路"
+    ],
+    "file": "/wallpapers/minimal-010.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "trend-009",
+    "title": "霓虹神龙",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "神龙",
+      "涂鸦"
+    ],
+    "file": "/wallpapers/trend-009.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
+  },
+  {
+    "id": "minimal-011",
+    "title": "白羽",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "羽毛",
+      "静物"
+    ],
+    "file": "/wallpapers/minimal-011.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-29"
   }
 ]
