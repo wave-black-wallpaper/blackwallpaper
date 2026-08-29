@@ -68,6 +68,18 @@ if (attempt >= 10) {
   process.exit(1);
 }
 fs.copyFileSync(image, dest);
+// 如果是 PNG，尝试调用 Python 脚本自动裁掉底部 80px AI 水印并精确缩放到 iPhone 原生 1179×2556
+if (ext === ".png") {
+  const { execFileSync } = require("child_process");
+  const py = process.env.WALLPAPER_PYTHON || "/Users/pangbao/.workbuddy/binaries/python/envs/wallpaper/bin/python3";
+  try {
+    execFileSync(py, [path.join(__dirname, "postprocess_wallpaper.py"), dest], { stdio: "ignore" });
+  } catch (e) {
+    console.warn(`⚠️  后处理失败（不影响入库）: ${e.message}`);
+  }
+  width = 1179;
+  height = 2556;
+}
 
 list.push({
   id,
