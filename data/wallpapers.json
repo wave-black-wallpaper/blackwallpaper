@@ -1125,5 +1125,165 @@
     "source": "upload",
     "downloads": 0,
     "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-016",
+    "title": "扭曲时空",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "空间",
+      "简约"
+    ],
+    "file": "/wallpapers/minimal-016.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-017",
+    "title": "摇曳生姿",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "柔美",
+      "简约"
+    ],
+    "file": "/wallpapers/minimal-017.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-018",
+    "title": "暗影流动",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "暗调",
+      "流动"
+    ],
+    "file": "/wallpapers/minimal-018.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-019",
+    "title": "暗黑冷金属",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "金属",
+      "冷调"
+    ],
+    "file": "/wallpapers/minimal-019.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-020",
+    "title": "暗黑金属",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "金属",
+      "暗黑"
+    ],
+    "file": "/wallpapers/minimal-020.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-021",
+    "title": "独立向上",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "生长",
+      "意境"
+    ],
+    "file": "/wallpapers/minimal-021.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-022",
+    "title": "神秘星云",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "星云",
+      "神秘"
+    ],
+    "file": "/wallpapers/minimal-022.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-023",
+    "title": "雨",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "雨",
+      "氛围"
+    ],
+    "file": "/wallpapers/minimal-023.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-024",
+    "title": "静谧",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "安静",
+      "侘寂"
+    ],
+    "file": "/wallpapers/minimal-024.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
+  },
+  {
+    "id": "minimal-025",
+    "title": "飘逸灵动",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "轻盈",
+      "灵动"
+    ],
+    "file": "/wallpapers/minimal-025.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-30"
   }
 ]
