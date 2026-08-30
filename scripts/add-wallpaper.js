@@ -25,8 +25,8 @@ if (!VALID.includes(category)) {
 
 const title = opt("title", path.basename(image, path.extname(image)));
 const tags = opt("tags", "手机壁纸").split(",").map((s) => s.trim()).filter(Boolean);
-const width = parseInt(opt("w", "1080"), 10);
-const height = parseInt(opt("h", "2160"), 10);
+let width = parseInt(opt("w", "1080"), 10);
+let height = parseInt(opt("h", "2160"), 10);
 
 const ROOT = path.join(__dirname, "..");
 const OUT_DIR = path.join(ROOT, "public", "wallpapers");
@@ -45,12 +45,13 @@ const list = fs.existsSync(DATA_FILE) ? JSON.parse(fs.readFileSync(DATA_FILE, "u
 const ext = path.extname(image).toLowerCase();
 let id, dest, attempt = 0;
 while (attempt < 10) {
-  const maxNum = list
-    .filter((w) => w.category === category)
-    .reduce((m, w) => {
-      const n = parseInt(w.id.split("-")[1] || "0", 10);
-      return isNaN(n) ? m : Math.max(m, n);
-    }, 0);
+  // 编号同时参考 JSON 与文件系统（防止孤儿文件导致编号被占/覆盖）
+  const maxNum = fs.existsSync(OUT_DIR)
+    ? fs.readdirSync(OUT_DIR).reduce((m, f) => {
+        const [cat, num] = path.basename(f, path.extname(f)).split("-");
+        return cat === category && !isNaN(parseInt(num, 10)) ? Math.max(m, parseInt(num, 10)) : m;
+      }, 0)
+    : 0;
   id = `${category}-${String(maxNum + 1).padStart(3, "0")}`;
   dest = path.join(OUT_DIR, `${id}${ext}`);
   if (!fs.existsSync(dest)) break;
