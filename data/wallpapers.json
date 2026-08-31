@@ -1285,5 +1285,325 @@
     "source": "upload",
     "downloads": 0,
     "createdAt": "2026-08-30"
+  },
+  {
+    "id": "dark-017",
+    "title": "黑曜熔岩",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "熔岩",
+      "炽热"
+    ],
+    "file": "/wallpapers/dark-017.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "dark-018",
+    "title": "蓝金星云",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "星云",
+      "宇宙"
+    ],
+    "file": "/wallpapers/dark-018.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "dark-019",
+    "title": "月夜古堡",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "哥特",
+      "城堡"
+    ],
+    "file": "/wallpapers/dark-019.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "dark-020",
+    "title": "液态黑金",
+    "category": "dark",
+    "tags": [
+      "暗黑",
+      "黑金",
+      "金属"
+    ],
+    "file": "/wallpapers/dark-020.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "anime-018",
+    "title": "海边黄昏",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "海边",
+      "黄昏"
+    ],
+    "file": "/wallpapers/anime-018.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "anime-019",
+    "title": "樱花街道",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "樱花",
+      "治愈"
+    ],
+    "file": "/wallpapers/anime-019.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "anime-020",
+    "title": "天台黄昏",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "天台",
+      "黄昏"
+    ],
+    "file": "/wallpapers/anime-020.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "anime-021",
+    "title": "雪夜车站",
+    "category": "anime",
+    "tags": [
+      "动漫",
+      "雪夜",
+      "列车"
+    ],
+    "file": "/wallpapers/anime-021.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "cyberpunk-014",
+    "title": "霓虹武士",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "武士",
+      "霓虹"
+    ],
+    "file": "/wallpapers/cyberpunk-014.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "cyberpunk-015",
+    "title": "全息雨街",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "霓虹",
+      "雨夜"
+    ],
+    "file": "/wallpapers/cyberpunk-015.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "cyberpunk-016",
+    "title": "悬浮车站",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "未来",
+      "车站"
+    ],
+    "file": "/wallpapers/cyberpunk-016.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "cyberpunk-017",
+    "title": "全息都市",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "都市",
+      "夜景"
+    ],
+    "file": "/wallpapers/cyberpunk-017.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "trend-014",
+    "title": "孟菲斯拼贴",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "孟菲斯",
+      "几何"
+    ],
+    "file": "/wallpapers/trend-014.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "trend-015",
+    "title": "墨金交融",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "抽象",
+      "黑金"
+    ],
+    "file": "/wallpapers/trend-015.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "trend-016",
+    "title": "雾境渐变",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "渐变",
+      "柔和"
+    ],
+    "file": "/wallpapers/trend-016.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "trend-017",
+    "title": "胶片黄昏",
+    "category": "trend",
+    "tags": [
+      "潮流",
+      "复古",
+      "胶片"
+    ],
+    "file": "/wallpapers/trend-017.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "minimal-026",
+    "title": "晨雾孤树",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "雾",
+      "禅意"
+    ],
+    "file": "/wallpapers/minimal-026.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "minimal-027",
+    "title": "沙痕涟漪",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "纹理",
+      "水纹"
+    ],
+    "file": "/wallpapers/minimal-027.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "minimal-028",
+    "title": "亚麻质感",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "织物",
+      "米色"
+    ],
+    "file": "/wallpapers/minimal-028.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
+  },
+  {
+    "id": "minimal-029",
+    "title": "月面静影",
+    "category": "minimal",
+    "tags": [
+      "极简",
+      "月球",
+      "太空"
+    ],
+    "file": "/wallpapers/minimal-029.png",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-08-31"
   }
 ]
