@@ -153,8 +153,10 @@
     "file": "/wallpapers/anime-007.png",
     "width": 1179,
     "height": 2556,
-    "source": "upload"
-  }
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-09-02"
+  },
   {
     "id": "minimal-005",
     "title": "暮色少女",
