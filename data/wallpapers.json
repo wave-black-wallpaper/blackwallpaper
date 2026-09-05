@@ -2083,5 +2083,22 @@
     "source": "upload",
     "downloads": 0,
     "createdAt": "2026-09-02"
+  },
+  {
+    "id": "cyberpunk-020",
+    "title": "霓虹脉络",
+    "category": "cyberpunk",
+    "tags": [
+      "赛博朋克",
+      "霓虹",
+      "抽象",
+      "黑色"
+    ],
+    "file": "/wallpapers/cyberpunk-020.jpg",
+    "width": 1179,
+    "height": 2556,
+    "source": "upload",
+    "downloads": 0,
+    "createdAt": "2026-09-05"
   }
 ]
